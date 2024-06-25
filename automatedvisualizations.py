@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Path to the main folder containing subfolders with .txt files
-folder_path = '/Users/josuecampos/Downloads/20240611 test98/Activation 2V_24h'
+folder_path = 'main folder path'
 
 
 # Function to read and process a single .txt file
